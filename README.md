@@ -1,1 +1,1 @@
-# AI-Pose-Assistant-for-Portrait-Photography
+# AI Pose Assistant for Portrait Photography
